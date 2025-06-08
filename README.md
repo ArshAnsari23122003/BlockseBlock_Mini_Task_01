@@ -25,7 +25,3 @@ BlockseBlock_Mini_Task_01/
 - Proof-of-Work mining (adjustable difficulty).
 - Chain validation logic to ensure consistency.
 - Easy to extend and integrate.
-
-```bash
-git clone https://github.com/ArshAnsari23122003/BlockseBlock_Mini_Task_01.git
-cd BlockseBlock_Mini_Task_01
