@@ -26,14 +26,6 @@ BlockseBlock_Mini_Task_01/
 - Chain validation logic to ensure consistency.
 - Easy to extend and integrate.
 
-## 🔧 Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/en/download/) installed on your system
-
-### Installation
-
 ```bash
 git clone https://github.com/ArshAnsari23122003/BlockseBlock_Mini_Task_01.git
 cd BlockseBlock_Mini_Task_01
